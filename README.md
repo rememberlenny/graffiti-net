@@ -19,7 +19,11 @@ The encoded features (using VGG16) are in a hdf5 file that I can also share for 
 The clustering is done using the Annoy (Approximate Nearest Neighbors OY) [6] from @SpotifyEng - I tried to use FAISS [7], but struggled with the instructions. Apparently its significantly faster, but the documentation wasn't great.
 
 [^1] https://twitter.com/rememberlenny/status/1038992069094780928
+
 [^2] https://twitter.com/rememberlenny/status/1038994489896042497
+
 [^5] https://twitter.com/rememberlenny
+
 [^6] https://github.com/spotify/annoy
+
 [^7] https://github.com/facebookresearch/faiss
