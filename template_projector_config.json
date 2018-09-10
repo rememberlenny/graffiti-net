@@ -7,7 +7,8 @@
         50
       ],
       "tensorPath": "https://s3.amazonaws.com/graffitinet/graffiti_data.tsv",
-      "metadataPath": "https://s3.amazonaws.com/graffitinet/graffiti_file_names.tsv"
+      "metadataPath": "https://s3.amazonaws.com/graffitinet/graffiti_file_names.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/rememberlenny/graffiti-net/master/t-SNE_shape.txt"
     }
-  ]
+  ],
 }
