@@ -1,3 +1,5 @@
+![npaf-logo](https://user-images.githubusercontent.com/1332366/45318391-cb4e3200-b50a-11e8-8fcc-f64fce5c381b.png)
+
 # Graffiti Net
 
 A way to document all unique street art in the world and create a genealogy of all publicly visual media (using machine learning).
